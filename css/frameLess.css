@@ -230,7 +230,7 @@ body {
 }
 
 .section {
-    margin-top: calc(50vh - 32px);
+    margin-top: calc(50vh - 16px);
     float: left;
     transform: translateY(-50%);
 }
